@@ -1,4 +1,10 @@
 Julia Roberts
 Emma Watson
 Emma Stone
+<<<<<<< HEAD
 Salma Hayek
+=======
+Maribel Verdú
+>>>>>>> test2
+Veronica Forqué
+Penélope Cruz
